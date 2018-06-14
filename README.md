@@ -1,6 +1,7 @@
 # Learn Code and Run Code
 
 ## Code Basic
+[코드로 가득한 세상](https://github.com/xistory/xiphos4u/tree/master/cs_fundamental/fundamental00.md)
 [코딩의 본질- 범용성과 비교우위](https://github.com/xistory/xiphos4u/tree/master/cs_fundamental/fundamental01.md)
 [코딩은 왜 이렇게 복잡한가? - 1 컴퓨터의 단순함]
 [코딩은 왜 이렇게 복잡한가? - 2 이 세상의 다양성]
@@ -14,6 +15,8 @@
 
 <!---
 # 코딩 기초
+좋은 질문으로 시작하자.
+
 [문명과 수학] 참조
 [서담글] 참조
 컴과세 참조
