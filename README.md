@@ -2,10 +2,15 @@
 
 ## Code Basic
 [코드로 가득한 세상](https://github.com/xistory/xiphos4u/tree/master/cs_fundamental/fundamental00.md)
+
 [코딩의 본질- 범용성과 비교우위](https://github.com/xistory/xiphos4u/tree/master/cs_fundamental/fundamental01.md)
+
 [코딩은 왜 이렇게 복잡한가? - 1 컴퓨터의 단순함]
+
 [코딩은 왜 이렇게 복잡한가? - 2 이 세상의 다양성]
+
 [어떻게 복잡성을 통제할까?]
+
 
 ## 파이썬 연습문제
 기초 문법 학습 : [점프투파이썬](https://wikidocs.net/book/1)
